@@ -1,19 +1,10 @@
-UPLOAD CORRETO - VERSAO COM ARQUIVO UNICO
+VERSAO V2 - DESAFIO 2 CORRIGIDO
 
-1. No repositorio GitHub, apague os arquivos antigos:
-   - index.html
-   - download
-   - index-CNPI0z1-.css
-   - qualquer pasta assets, se existir
-
-2. Suba somente estes arquivos:
+1. Apague o index.html antigo no GitHub.
+2. Suba estes tres arquivos:
    - index.html
    - .nojekyll
    - INSTRUCOES_UPLOAD_GITHUB.txt
-
-3. Nao precisa de pasta assets nesta versao.
-
-4. Depois abra:
-   https://raphaelwcarvalho.github.io/tomtom-turbo-world/
-
-5. Se a pagina ainda aparecer branca, use Ctrl+F5 para limpar cache.
+3. Nao precisa de pasta assets.
+4. Abra https://raphaelwcarvalho.github.io/tomtom-turbo-world/
+5. Use Ctrl+F5 se vir a versao antiga.
