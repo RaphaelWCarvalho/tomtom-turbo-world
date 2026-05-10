@@ -1,0 +1,21 @@
+COMO PUBLICAR NO GITHUB PAGES
+
+1. Acesse: https://github.com/RaphaelWCarvalho/tomtom-turbo-world
+2. Clique em Add file > Upload files.
+3. Arraste TODOS os itens desta pasta para a tela do GitHub:
+   - index.html
+   - assets/
+   - .nojekyll
+   - INSTRUCOES_UPLOAD_GITHUB.txt
+4. Clique em Commit changes.
+5. Vá em Settings > Pages.
+6. Em Source, escolha: Deploy from a branch.
+7. Em Branch, escolha: main.
+8. Em Folder, escolha: /(root).
+9. Clique em Save.
+10. Aguarde 1 a 3 minutos.
+
+Link esperado:
+https://raphaelwcarvalho.github.io/tomtom-turbo-world/
+
+Se aparecer 404, aguarde mais alguns minutos e recarregue.
